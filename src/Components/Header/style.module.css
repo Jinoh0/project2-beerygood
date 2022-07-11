@@ -1,0 +1,27 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  background-image: linear-gradient(to bottom right, #ceeaf3, #ffdbbd);
+  box-sizing: border-box;
+  /* padding-bottom: 50px; */
+  height: 600px;
+}
+
+.header {
+  display: flex;
+  background-color: rgb(247, 192, 42);
+  height: auto;
+  color: #c5d8d1;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border-top: solid 10px rgb(233, 230, 156);
+  border-bottom: solid 4px grey;
+  text-shadow: 0 0 3px rgb(161, 159, 159);
+}
+
+.title {
+  margin-left: -190px;
+  color: black;
+}

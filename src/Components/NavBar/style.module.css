@@ -1,0 +1,12 @@
+.navbar {
+}
+
+.btn2 {
+  color: black;
+  margin-right: 40px;
+  transition-duration: 0.4s;
+}
+
+.btn2:hover {
+  color: #fc5f51;
+}

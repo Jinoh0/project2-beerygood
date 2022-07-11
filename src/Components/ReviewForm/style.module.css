@@ -1,0 +1,32 @@
+.card {
+  margin-bottom: 12px;
+  border-radius: 20px;
+  border: 2px solid black;
+  max-width: 320px;
+  /* width: 70%; */
+  background-color: white;
+  padding: 15px;
+}
+
+.btn {
+  margin-top: 8px;
+  margin-bottom: 35px;
+  border-radius: 8px;
+}
+
+.form {
+  color: black;
+  border-radius: 20px;
+  padding: 20px;
+  width: 40%;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  background-color: rgba(255, 255, 255, 0.849);
+}
+
+.commentinput {
+  display: flex;
+  height: 120px;
+}
